@@ -11,3 +11,9 @@ Cloud
 -CGP
 -AWS
 -Azure
+
+
+
+
+```
+https://cloud.google.com/architecture#/technology=Big_data_and_analytics
